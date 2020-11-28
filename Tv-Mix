@@ -250,6 +250,50 @@ http://moontools.me:8080/miltonlopez/qEH247gT8p/26816
 http://moontools.me:8080/miltonlopez/qEH247gT8p/26815
 #EXTINF:-1,Dep|| group-title="Deportes" ,Directv Sports Plus | Ecuador
 http://moontools.me:8080/miltonlopez/qEH247gT8p/46837
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 FHD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 2 FHD H265 ²
+http://pdsrv.io:80/Aline01/Aline01/61272
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 FHD H265¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS SPORTV",SPORTV 2 FHD H265¹
+http://pdsrv.io:80/Aline01/Aline01/11539
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 FHD¹ H264" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV 2 FHD¹ H264
+http://pdsrv.io:80/Aline01/Aline01/61454
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 2 HD ²
+http://pdsrv.io:80/Aline01/Aline01/61062
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS SPORTV",SPORTV 2 HD¹
+http://pdsrv.io:80/Aline01/Aline01/6084
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SPORTV 2 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 2 SD²
+http://pdsrv.io:80/Aline01/Aline01/61061
+#EXTINF:-1 tvg-id="Sportv2.br" tvg-name="SPORTV 2 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv2.png" group-title="CANAIS SPORTV",SPORTV 2 SD¹
+http://pdsrv.io:80/Aline01/Aline01/4326
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 FHD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 3 FHD H265 ²
+http://pdsrv.io:80/Aline01/Aline01/61273
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD H265¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV 3 FHD H265¹
+http://pdsrv.io:80/Aline01/Aline01/11538
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 FHD¹ H264" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV 3 FHD¹ H264
+http://pdsrv.io:80/Aline01/Aline01/61455
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 3 HD ²
+http://pdsrv.io:80/Aline01/Aline01/61064
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV 3 HD¹
+http://pdsrv.io:80/Aline01/Aline01/6083
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SPORTV 3 SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV 3 SD²
+http://pdsrv.io:80/Aline01/Aline01/61063
+#EXTINF:-1 tvg-id="Sportv3.br" tvg-name="SPORTV 3 SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV 3 SD¹
+http://pdsrv.io:80/Aline01/Aline01/4325
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV 4K" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS 4K",SPORTV 4K
+http://pdsrv.io:80/Aline01/Aline01/33759
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD H265 ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV FHD H265 ²
+http://pdsrv.io:80/Aline01/Aline01/61271
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV FHD H265¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV FHD H265¹
+http://pdsrv.io:80/Aline01/Aline01/11563
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV FHD¹ H264" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/sportv3.png" group-title="CANAIS SPORTV",SPORTV FHD¹ H264
+http://pdsrv.io:80/Aline01/Aline01/61453
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV HD ²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV HD ²
+http://pdsrv.io:80/Aline01/Aline01/61060
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV HD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV HD¹
+http://pdsrv.io:80/Aline01/Aline01/20544
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SPORTV SD²" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV SD²
+http://pdsrv.io:80/Aline01/Aline01/61059
+#EXTINF:-1 tvg-id="Sportv.br" tvg-name="SPORTV SD¹" tvg-logo="http://www.ebanonet.com.br/wp-content/uploads/2018/03/spotv.png" group-title="CANAIS SPORTV",SPORTV SD¹
+http://pdsrv.io:80/Aline01/Aline01/4327
 
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ictv19.xyz/logo/AnimalPlanet.png" group-title="Culturales",ANIMAL PLANET HD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22251
