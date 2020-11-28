@@ -184,58 +184,64 @@ http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22532
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/17412
 #EXTINF:-1 tvg-id="GolPeru.pe" tvg-name="PERU - GOLPERU SD" tvg-logo="http://iptbest.xyz:8000/images/617a57a4ac9ed501b2196d4a96957319.png" group-title="Deportes",PERU - GOLPERU SD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/34186
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 2 FHD
+#EXTINF:-1 tvg-id="" tvg-name="TIGO SPORTS 2 HD (BOLIVIA)" tvg-logo="http://www.ictv19.xyz/logo/TIGOSPORTS.png" group-title="Deportes",TIGO SPORTS 2 HD (BOLIVIA)
+http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/23337
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY - TIGO SPORTS + HD" tvg-logo="http://www.ictv19.xyz/logo/Tigo-Sports-Hd.png" group-title="Paraguay",PARAGUAY - TIGO SPORTS + HD
+http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/17358
+#EXTINF:-1 tvg-id="" tvg-name="PARAGUAY - TIGO SPORTS HD" tvg-logo="http://www.ictv19.xyz/logo/Tigo-Sports-Hd.png" group-title="Paraguay",PARAGUAY - TIGO SPORTS HD
+http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/17359
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 2 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117057
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 2 HD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 2 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117056
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 3 FHD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 3 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117055
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 3 HD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 3 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117054
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 4 FHD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 4 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117053
 #EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 4 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117052
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 5 FHD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 5 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117051
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 5 HD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 5 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117050
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 6 FHD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 6 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117049
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 6 SD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 6 SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117048
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 7 SD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 7 SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117047
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE 8 SD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE 8 SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117046
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE CLUBES HD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE CLUBES HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117044
-#EXTINF:-1,Br|| group-title="Deportes" ,PREMIERE CLUBES SD
+#EXTINF:-1|| group-title="Deportes" ,PREMIERE CLUBES SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117043
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 2 FHD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 2 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117041
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 2 HD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 2 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117040
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 2 SD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 2 SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117039
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 3 FHD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 3 FHD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117038
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 3 HD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 3 HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117037
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV 3 SD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV 3 SD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117036
-#EXTINF:-1,Br|| group-title="Deportes" ,SPORTV HD
+#EXTINF:-1|| group-title="Deportes" ,SPORTV HD
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1117035
 #EXTINF:-1,COLOMBIA || group-title="Deportes" ,DIRECTV SPORTS 1 &gt;)
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1133426
 #EXTINF:-1,COLOMBIA || group-title="Deportes" ,DIRECTV SPORTS 2 >)
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1133427
-#EXTINF:-1,COLOMBIA || group-title="Deportes" ,DIRECTV SPORTS PLUS &gt;)
 #EXTINF:-1,DEPORTES LAT | group-title="Deportes" ,DIRECTV SPORTS
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1131115
 #EXTINF:-1,DEPORTES LAT | group-title="Deportes" ,DIRECTV SPORTS +
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1131117
 #EXTINF:-1,DEPORTES LAT | group-title="Deportes" ,DIRECTV SPORTS 2
+http://moontools.me:8080/miltonlopez/qEH247gT8p/1131116
 #EXTINF:-1,Dep|| group-title="Deportes" ,DIRECTV SPORTS 1 HD | Chile
 http://moontools.me:8080/miltonlopez/qEH247gT8p/21928
 #EXTINF:-1,Dep|| group-title="Deportes" ,DIRECTV SPORTS 1 HD-
@@ -244,6 +250,7 @@ http://moontools.me:8080/miltonlopez/qEH247gT8p/26816
 http://moontools.me:8080/miltonlopez/qEH247gT8p/26815
 #EXTINF:-1,Dep|| group-title="Deportes" ,Directv Sports Plus | Ecuador
 http://moontools.me:8080/miltonlopez/qEH247gT8p/46837
+
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET HD" tvg-logo="http://www.ictv19.xyz/logo/AnimalPlanet.png" group-title="Culturales",ANIMAL PLANET HD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22251
 #EXTINF:-1 tvg-id="AnimalPlanetLatinAmerica.pa" tvg-name="ANIMAL PLANET SD " tvg-logo="http://www.ictv19.xyz/logo/AnimalPlanet.png" group-title="Culturales",ANIMAL PLANET SD 
@@ -300,6 +307,7 @@ http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/34551
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22286
 #EXTINF:-1 tvg-id="NatGeo.mx" tvg-name="NATGEO SD (opc 2)" tvg-logo="http://www.ictv19.xyz/logo/NatGeo.png" group-title="Culturales",NATGEO SD (opc 2)
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22287
+
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL FHD" tvg-logo="http://ictv19.xyz/logo/cinecanal.jpg" group-title="Cine y Tv",CINECANAL FHD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22163
 #EXTINF:-1 tvg-id="Cinecanal.mx" tvg-name="CINECANAL HD" tvg-logo="http://www.ictv19.xyz/logo/cinecanal.jpg" group-title="Cine y Tv",CINECANAL HD
@@ -374,6 +382,7 @@ http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22243
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/6738
 #EXTINF:-1 tvg-id="FoxLife.mx" tvg-name="FOX LIFE SD" tvg-logo="http://www.ictv19.xyz/logo/fox-life.png" group-title="Cine y Tv",FOX LIFE SD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22181
+
 #EXTINF:-1 tvg-id="" tvg-name="Animaniacs  24/7" tvg-logo="http://iptbest.xyz:8000/images/ae2664ab2ca52b585193e6a6d14f7897.png" group-title="24/7",Animaniacs  24/7
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61500
 #EXTINF:-1 tvg-id="" tvg-name="CORAJE EL PERRO COBARDE 24/7" tvg-logo="http://cartoons2000.files.wordpress.com/2012/02/corage.jpg" group-title="24/7",CORAJE EL PERRO COBARDE 24/7
@@ -402,6 +411,7 @@ http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61746
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61750
 #EXTINF:-1 tvg-id="" tvg-name="Tom y Jerry 24/7" tvg-logo="http://iptbest.xyz:8000/images/8bb2b69c66e25316d6edab3aa9650869.png" group-title="24/7",Tom y Jerry 24/7
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61841
+
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARGENTINA - A24 FHD" tvg-logo="http://www.jomyson.com/logo/a24.png" group-title="Argentina",ARGENTINA - A24 FHD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/1401
 #EXTINF:-1 tvg-id="America24.ar" tvg-name="ARGENTINA - A24 HD" tvg-logo="http://www.jomyson.com/logo/a24.png" group-title="Argentina",ARGENTINA - A24 HD
@@ -457,7 +467,8 @@ http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61588
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/61589
 #EXTINF:-1 tvg-id="TeveCiudad.uy" tvg-name="URUGUAY - TV CIUDAD HD" tvg-logo="http://iptbest.xyz:8000/images/0fb2959200afc41d0412e7999d54faf2.png" group-title="Uruguay",URUGUAY - TV CIUDAD HD
 http://iptbest.xyz:8000/Zi1KNyj8oI/gh0uSeOT8r/22527
-#EXTINF:-1,(XXX) group-title="Adultos",O LA LA TV
+
+#EXTINF:-1,(XXX) group-title="Adultos", O LA LA TV
 http://moontools.me:8080/miltonlopez/qEH247gT8p/17588
 #EXTINF:-1,+18 | group-title="Adultos", Venus
 http://moontools.me:8080/miltonlopez/qEH247gT8p/1165138
